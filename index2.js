@@ -1,1 +1,1 @@
-onsole.log("Hallo Git2")
+console.log("Hallo Git2")
